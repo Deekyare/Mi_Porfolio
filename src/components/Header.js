@@ -8,8 +8,8 @@ import "../components/Header.css";
 function Header() {
   return (
     <section id="Header" className="sectionHeader py-5">
-      <Container className="mt-5 d-flex justify-content-center align-items-center">
-        <div className="social-icons d-flex flex-column align-items-start gap-3 m-5">
+      <Container className="containerHeader mt-5 d-flex justify-content-center align-items-center">
+        <div className="social-icons d-flex  align-items-start gap-3 m-5">
           <a
             href="https:/www.linkedin.com/in/silviagiardini" target="_blank" rel="noopener noreferrer"
             className="text-white"

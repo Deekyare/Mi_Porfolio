@@ -9,6 +9,9 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
+.social-icons{
+  flex-direction: column
+}
 
 @media (max-width: 768px) {
   .sectionHeader {
@@ -16,6 +19,13 @@
       to right,
       rgba(255, 255, 255, 0.105) 10%,
       rgba(0, 0, 0, 0.754)
+   
     );
+  }
+  .containerHeader{
+  flex-direction: column-reverse;
+  }
+  .social-icons{
+    flex-direction: row;
   }
 }
