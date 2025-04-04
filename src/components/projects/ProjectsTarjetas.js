@@ -116,7 +116,7 @@ function ProjectsTarjetas() {
                 </Button>
                 <Button
                   variant="outline-gold"
-                  href="https://github.com/Deekyare/Porfolio" target="_blank"
+                  href="https://github.com/Deekyare/Mi_Porfolio" target="_blank"
                   className="ms-3"
                 >
                   Código
