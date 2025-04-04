@@ -1,0 +1,63 @@
+body {
+  background-color: #34353a; /* Fondo general oscuro */
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.text-gold {
+  color: #d4a017 !important; /* Dorado para títulos y detalles */
+}
+
+.btn-outline-gold {
+  color: #d4a017;
+  border-color: #d4a017;
+}
+
+.btn-outline-gold:hover {
+  background-color: #d4a017;
+  color: #ffffff;
+  border-color: #d4a017;
+}
+
+.skill-box {
+  background-color: #4a4b50; /* Color diferente para los cuadraditos de skills */
+  padding: 15px;
+  border-radius: 8px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: 1px solid #d4a017;
+}
+
+.skill-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(212, 160, 23, 0.3);
+}
+
+.text-muted {
+  color: #8892b0 !important;
+}
+
+.card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(212, 160, 23, 0.3);
+}
+
+.fab,
+.fas {
+  font-size: 1.5rem;
+  margin: 0 5px;
+}
+
+.social-icons a {
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #d4a017 !important;
+}

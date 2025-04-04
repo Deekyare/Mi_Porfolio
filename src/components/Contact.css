@@ -1,0 +1,45 @@
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  font-size: 1rem; /* Tamaño de texto más pequeño */
+}
+
+.contact-item i {
+  font-size: 1.2rem; /* Íconos más pequeños */
+  color: #ffd700; /* Dorado para destacar los íconos */
+}
+
+.contact-item a,
+.contact-item span {
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.contact-item a:hover {
+  color: #ffd700; /* Dorado al pasar el mouse */
+}
+
+.text-gold {
+  color: #ffd700; /* Dorado */
+}
+
+@media (max-width: 767px) {
+  .contact-list {
+    flex-direction: column;
+    gap: 1rem; /* Espacio reducido en móvil */
+  }
+
+  .contact-item {
+    font-size: 0.9rem;
+  }
+
+  .contact-item i {
+    font-size: 1rem;
+  }
+}
