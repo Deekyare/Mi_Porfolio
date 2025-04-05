@@ -11,13 +11,13 @@ function Header() {
       <Container className="containerHeader mt-5 d-flex justify-content-center align-items-center">
         <div className="social-icons d-flex  align-items-start gap-3 m-5">
           <a
-            href="https:/www.linkedin.com/in/silviagiardini" target="_blank" rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/silviagiardini" target="_blank" rel="noopener noreferrer"
             className="text-white"
           >
             <FontAwesomeIcon icon={faLinkedin} size="lg" />
           </a>
           <a
-            href="https:/www.linkedin.com/in/silviagiardini" target="_blank" rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/silviagiardini" target="_blank" rel="noopener noreferrer"
             className="text-white"
           >
             <FontAwesomeIcon icon={faWhatsapp} size="lg" />
