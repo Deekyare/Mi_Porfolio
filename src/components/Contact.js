@@ -32,10 +32,6 @@ function Contact() {
             </a>
           </li>
           <li className="contact-item">
-            <FaPhone className="me-2" />
-            <span>1162297015</span>
-          </li>
-          <li className="contact-item">
             <FaMapMarkerAlt className="me-2" />
             <span>San Rafael, Mendoza, Argentina</span>
           </li>

@@ -29,7 +29,7 @@ function Header() {
             Silvia Giardini
           </h1>
           <p className="text-muted" style={{ fontSize: "1.2rem" }}>
-            | Frontend Developer | JavaScript | React | HTML | Css |
+             Frontend Developer | JavaScript | React | HTML | Css 
           </p>
           <p className="text-muted" style={{ fontSize: "1.2rem" }}>
             Estudiante de la Tecnicatura universitaria en programación.

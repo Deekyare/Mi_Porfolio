@@ -8,6 +8,7 @@ import {
   FaHtml5,
   FaBootstrap,
   FaNodeJs,
+  FaReact,
 } from "react-icons/fa";
 
 function Skills() {
@@ -47,6 +48,10 @@ function Skills() {
           <Col xs={3} md={2} className="text-center skill-box">
             <FaPython className="text-gold" size={40} />
             <p className="text-muted mt-2">Python</p>
+          </Col>
+          <Col xs={3} md={2} className="text-center skill-box">
+            <FaReact className="text-gold" size={40} />
+            <p className="text-muted mt-2">ReactJS</p>
           </Col>
         </Row>
       </Container>
