@@ -12,7 +12,7 @@
 - **Lenguajes**: HTML5, CSS3, JavaScript, Python
 - **Frameworks y Bibliotecas**: React, Bootstrap, Node.js
 - **Bases de Datos**: MongoDB, SQL
-- **Herramientas**: Git, GitHub, Docker, Visual Studio Code, Figma
+- **Herramientas**: Git, GitHub, Docker
 - **Conocimientos básicos en**: Business Intelligence
 
 ## Contacto 📧
